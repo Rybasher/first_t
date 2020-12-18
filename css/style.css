@@ -671,6 +671,7 @@ html {
   position: absolute;
   top: 50%;
   right: 0;
+  transform: translate(0, -50%);
   height: calc(100px + 200 * (100vw / 1600));
   width: calc(100px + 150 * (100vw / 1600));
 }
